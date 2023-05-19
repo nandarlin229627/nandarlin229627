@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandar Lin</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nandarlin229627?tab=repositories](https://github.com/nandarlin229627?tab=repositories)
 
