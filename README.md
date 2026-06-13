@@ -80,7 +80,7 @@ Laravel-based academic management platform featuring:
 - Attendance Monitoring
 - Fee Collection
 - Examination Management
-- Academic Reporting
+
 
 ### 🔐 Phishing URL Detection System
 Machine learning cybersecurity project involving:
@@ -89,12 +89,7 @@ Machine learning cybersecurity project involving:
 - Support Vector Machine (SVM)
 - Flask-Based Deployment
 
-### 🐟 Fish Marketing System
-Business platform supporting:
-- Product Management
-- Order Processing
-- Customer Management
-- Reporting and Analytics
+
 
 ---
 
@@ -129,19 +124,22 @@ Business platform supporting:
 
 ## 🌱 Professional Interests
 
-- Modern Web Application Development
-- Artificial Intelligence and Machine Learning
-- Educational Technology
-- Data-Driven Decision Making
-- Open Source Collaboration
-
+- Full-Stack Software Engineering (React, Laravel, Django, Flask)
+- Artificial Intelligence, Machine Learning & Deep Learning Systems
+- Computer Vision and Intelligent Image Processing
+- Data Science, Analytics & Predictive Modeling
+- Cybersecurity
+- Educational Technology and E-Learning Solutions
+- Cloud Computing and Distributed Systems Architecture
+- Backend Engineering, APIs & Microservices Development
+- Database Systems Design and Performance Optimization
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/nandarlin229627
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your professional email
+- LinkedIn: https://www.linkedin.com/in/nandar-lin-3a96b6265/
+- Email: nandarlin229627@gmail.com
 
 ---
 
