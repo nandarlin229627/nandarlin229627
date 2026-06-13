@@ -1,69 +1,77 @@
 <div align="center">
 
-# Hi 👋 I'm Nandar Lin
+# Nandar Lin
 
-### 💻 Freelance Full Stack Developer | 📊 Data Analyst | 👨‍🏫 Programming Lecturer
+### Freelance Full Stack Developer • Data Analyst • Programming Lecturer • ITPEC Instructor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Freelance+Web+Developer;Data+Analyst;Programming+Lecturer;ITPEC+Instructor;Machine+Learning+Enthusiast;Deep+Learning+Researcher" />
+🎓 Master of Computer Science (M.C.Sc) | University of Computer Studies, Monywa (UCSMGY)
+
+<p>
+  <a href="https://github.com/nandarlin229627">
+    <img src="https://img.shields.io/badge/GitHub-nandarlin229627-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-🎓 **Master of Computer Science (M.C.Sc)**  
-🏫 University of Computer Studies, Monywa (UCSMGY)
+Technology professional with experience in **full stack web development, data analytics, artificial intelligence, and IT education**. Passionate about building practical software solutions, extracting insights from data, and mentoring the next generation of technology professionals.
 
-💼 Freelance Full Stack Developer specializing in modern web applications.
+### Current Roles
 
-👨‍🏫 Programming Lecturer and ITPEC Instructor, helping students build strong IT foundations.
-
-📊 Passionate about transforming data into actionable insights.
-
-🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
-
-🌱 Currently exploring advanced React patterns and modern AI technologies.
-
----
-
-## 🏆 Professional Roles
-
-- 💻 Freelance Full Stack Developer
+- 💼 Freelance Full Stack Developer
+- 📊 Data Analyst
 - 👨‍🏫 Programming Lecturer
 - 📘 ITPEC Course Instructor
-- 📈 Data Analyst
-- 🤖 Machine Learning Practitioner
-- 🔬 Deep Learning Research Enthusiast
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎓 Education
 
-### 💻 Programming Languages
+**Master of Computer Science (M.C.Sc)**  
+University of Computer Studies, Monywa (UCSMGY)
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,python,java,js,html,css,mysql" />
-</p>
+---
 
-### 🌐 Web Development
+## 💼 Technical Expertise
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,react,django,flask,bootstrap,firebase" />
-</p>
-
-### 🤖 AI, Data Science & Analytics
+### Full Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Mining-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Image%20Processing-5C6BC0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=php,laravel,react,django,flask,js,html,css,bootstrap,mysql,firebase" />
 </p>
 
-### 🔧 Development Tools
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,java,js" />
+</p>
+
+### Data Analytics & Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- Data Analytics
+- Data Mining
+- Machine Learning
+- Deep Learning
+- Image Processing
+- Feature Engineering
+- Predictive Modeling
+- Computer Vision
+
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
@@ -71,46 +79,41 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🎓 School Management System
-- 👨‍🎓 Student Management
-- 👨‍🏫 Teacher Management
-- 👨‍👩‍👧 Parent Portal
-- 📝 Attendance Tracking
-- 💰 Fee Collection
-- 📚 Examination Management
-- 📈 Academic Reporting
-
----
+Laravel-based academic management platform featuring:
+- Student and Teacher Management
+- Parent Portal
+- Attendance Monitoring
+- Fee Collection
+- Examination Management
+- Academic Reporting
 
 ### 🔐 Phishing URL Detection System
-- 🧠 Support Vector Machine (SVM)
-- 📊 Feature Engineering
-- 🛡️ Lexical Feature Extraction
-- 🌐 Flask Deployment
-- 📉 Performance Evaluation
-
----
+Machine learning cybersecurity project involving:
+- Lexical Feature Engineering
+- Feature Selection Techniques
+- Support Vector Machine (SVM)
+- Flask-Based Deployment
 
 ### 🐟 Fish Marketing System
-- 🛒 Product Management
-- 📦 Order Processing
-- 👥 Customer Tracking
-- 📈 Sales Reporting
+Business platform supporting:
+- Product Management
+- Order Processing
+- Customer Management
+- Reporting and Analytics
 
 ---
 
-## 🎯 Areas of Interest
+## 👨‍🏫 Teaching & Academic Interests
 
-🔹 Full Stack Web Development  
-🔹 Data Analytics  
-🔹 Data Mining  
-🔹 Machine Learning  
-🔹 Deep Learning  
-🔹 Image Processing  
-🔹 Computer Vision  
-🔹 Educational Technology  
+- Programming Fundamentals
+- Web Development
+- Database Systems
+- ITPEC Examination Preparation
+- Machine Learning Fundamentals
+- Project Supervision and Mentoring
 
 ---
 
@@ -118,54 +121,40 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandarlin229627&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandarlin229627&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandarlin229627&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandarlin229627&layout=compact&theme=github_dark&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandarlin229627&theme=tokyonight" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandarlin229627&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏅 Certifications & Teaching
+## 🌱 Professional Interests
 
-📘 ITPEC Examination Preparation Instructor
-
-👨‍🏫 Programming and Software Development Lecturer
-
-🎓 M.C.Sc Graduate – University of Computer Studies, Monywa (UCSMGY)
-
----
-
-## 🌟 Current Goals
-
-- ⚛️ Advance expertise in React ecosystem
-- 🐍 Build scalable applications with Django and Flask
-- 🤖 Expand practical AI and Deep Learning projects
-- 📚 Continue mentoring future IT professionals
-- 🌍 Contribute to open-source initiatives
+- Modern Web Application Development
+- Artificial Intelligence and Machine Learning
+- Educational Technology
+- Data-Driven Decision Making
+- Open Source Collaboration
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-<p align="left">
-
-🐙 GitHub: https://github.com/nandarlin229627
-
-💼 LinkedIn: Add your LinkedIn profile
-
-📧 Email: Add your professional email
-
-</p>
+- GitHub: https://github.com/nandarlin229627
+- LinkedIn: Add your LinkedIn profile
+- Email: Add your professional email
 
 ---
 
 <div align="center">
 
-### ✨ "Technology creates opportunities, and education empowers people to seize them."
-
-![](https://komarev.com/ghpvc/?username=nandarlin229627&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+*"Building solutions through technology, creating impact through education."*
 
 </div>
