@@ -1,22 +1,11 @@
 <div align="center">
-
-# Nandar Lin
+<h1 align="center">Hi 👋, I'm Daw Nandar Lin</h1>
 
 ### Freelance Full Stack Developer • Data Analyst • Programming Lecturer • ITPEC Instructor
 
-🎓 Master of Computer Science (M.C.Sc) | University of Computer Studies, Monywa (UCSMGY)
+🎓 Master of Computer Science (M.C.Sc) | University of Computer Studies, Magway (UCSMGY)
 
-<p>
-  <a href="https://github.com/nandarlin229627">
-    <img src="https://img.shields.io/badge/GitHub-nandarlin229627-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+
 
 </div>
 
@@ -38,7 +27,10 @@ Technology professional with experience in **full stack web development, data an
 ## 🎓 Education
 
 **Master of Computer Science (M.C.Sc)**  
-University of Computer Studies, Monywa (UCSMGY)
+University of Computer Studies, Magway (UCSMGY)
+
+**Bachelor of Computer Science (B.C.Sc)**  
+University of Computer Studies, Magway (UCSMGY)
 
 ---
 
