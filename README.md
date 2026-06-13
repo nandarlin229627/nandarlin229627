@@ -42,10 +42,9 @@ University of Computer Studies, Magway (UCSMGY)
 <img src="https://skillicons.dev/icons?i=php,laravel,react,django,flask,js,html,css,bootstrap,mysql,firebase" />
 </p>
 
-### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,java,js" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### Data Analytics & Artificial Intelligence
